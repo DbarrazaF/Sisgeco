@@ -1,0 +1,601 @@
+17/7/2017;10:41:1; ERROR DE CONEXION O SQL : null
+17/7/2017;10:42:6; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+17/7/2017;10:42:6; ERROR DE CONEXION O SQL : null
+17/7/2017;10:42:21; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+17/7/2017;10:42:21; ERROR DE CONEXION O SQL : null
+17/7/2017;11:34:10; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+17/7/2017;11:34:10; ERROR DE CONEXION O SQL : null
+17/7/2017;12:28:19; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+17/7/2017;12:28:19; ERROR DE CONEXION O SQL : Communications link failure
+
+The last packet successfully received from the server was 21.076 milliseconds ago.  The last packet sent successfully to the server was 47 milliseconds ago.
+17/7/2017;13:30:31; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+17/7/2017;13:30:31; ERROR DE CONEXION O SQL : null
+17/7/2017;13:31:5; Problema de Ubicar URL :Access denied for user 'Coves'@'PC' (using password: YES)
+17/7/2017;13:31:5; ERROR DE CONEXION O SQL : null
+17/7/2017;13:31:40; Problema de Ubicar URL :Access denied for user 'Coves'@'PC' (using password: YES)
+17/7/2017;13:31:40; ERROR DE CONEXION O SQL : null
+17/7/2017;13:35:10; Problema de Ubicar URL :Access denied for user 'Coves'@'PC' (using password: YES)
+17/7/2017;13:35:10; ERROR DE CONEXION O SQL : null
+17/7/2017;13:37:29; Problema de Ubicar URL :Access denied for user 'Coves'@'PC' (using password: YES)
+17/7/2017;13:37:29; ERROR DE CONEXION O SQL : null
+17/7/2017;13:38:48; Problema de Ubicar URL :Access denied for user 'Coves'@'PC' (using password: YES)
+17/7/2017;13:38:48; ERROR DE CONEXION O SQL : null
+17/7/2017;13:42:38; Problema de Ubicar URL :Access denied for user 'Coves'@'PC' (using password: YES)
+17/7/2017;13:42:38; ERROR DE CONEXION O SQL : null
+17/7/2017;13:49:48; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+17/7/2017;13:49:48; ERROR DE CONEXION O SQL : null
+17/7/2017;13:50:11; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+17/7/2017;13:50:11; ERROR DE CONEXION O SQL : null
+25/7/2017; 11:16:27; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/7/2017; 11:16:27; ERROR DE CONEXION O SQL : null
+31/1/2018; 23:47:26; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+31/1/2018; 23:47:26; ERROR DE CONEXION O SQL : null
+2/2/2018; 2:16:4; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 2:16:4; ERROR DE CONEXION O SQL : null
+2/2/2018; 2:47:12; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 2:47:12; ERROR DE CONEXION O SQL : null
+2/2/2018; 2:53:26; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 2:53:26; ERROR DE CONEXION O SQL : null
+2/2/2018; 2:58:36; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 2:59:3; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 2:59:3; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LFnull
+2/2/2018; 2:59:11; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 2:59:11; CONEXION FALLADA O SENTENCIA MAL ESCRITA. ITP null
+2/2/2018; 3:2:25; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:2:25; CONEXION FALLADA O SENTENCIA MAL ESCRITA.BF null
+2/2/2018; 3:2:35; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:2:35; CONEXION FALLADA O SENTENCIA MAL ESCRITA.null
+2/2/2018; 3:4:28; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:4:28; CONEXION FALLADA O SENTENCIA MAL ESCRITA.null
+2/2/2018; 3:8:30; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:8:34; CONEXION FALLADA O SENTENCIA MAL ESCRITA.null
+2/2/2018; 3:8:59; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:9:21; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:11:30; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:11:30; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LSnull
+2/2/2018; 3:22:30; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:22:34; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BP null
+2/2/2018; 3:22:39; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:22:46; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:22:50; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:22:52; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LSnull
+2/2/2018; 3:22:57; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:22:58; CONEXION FALLADA O SENTENCIA MAL ESCRITA.LUV null
+2/2/2018; 3:23:2; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:23:4; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LFnull
+2/2/2018; 3:23:10; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:23:11; CONEXION FALLADA O SENTENCIA MAL ESCRITA.LTS null
+2/2/2018; 3:23:22; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:23:23; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LTP null
+2/2/2018; 3:23:28; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:23:29; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LDnull
+2/2/2018; 3:23:37; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:23:54; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:27:9; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:27:9; ERROR DE CONEXION O SQL : null
+2/2/2018; 3:27:29; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:27:30; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:27:32; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:27:34; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:27:36; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:27:38; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:27:40; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:27:41; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:27:43; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:27:45; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:32:30; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:32:31; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LSnull
+2/2/2018; 3:32:35; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:32:42; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:32:59; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:33:0; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BP null
+2/2/2018; 3:33:6; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:33:7; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BP null
+2/2/2018; 3:33:17; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:33:39; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:33:40; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:33:42; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:33:43; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:33:45; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:33:46; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:33:48; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:33:49; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:33:51; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:33:52; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:34:1; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:34:15; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:36:18; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:36:20; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:36:22; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:36:23; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:36:25; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:36:27; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:36:29; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:36:30; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:36:34; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:36:35; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:36:37; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:36:38; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:36:50; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:24; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:26; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:28; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:30; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:42; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:44; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:46; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:48; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:50; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:52; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:37:59; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:1; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:3; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:5; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:7; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:38:9; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:10; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:38:18; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:19; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:38:21; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:22; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:38:27; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:37; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:38:39; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:38:41; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:40:5; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:40:52; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:45:15; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:45:22; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:45:33; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:45:35; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LSnull
+2/2/2018; 3:46:28; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:46:28; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:46:30; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:46:30; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:46:32; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:46:32; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:46:34; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:46:34; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCP null
+2/2/2018; 3:46:36; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:46:36; CONEXION FALLADA O SENTENCIA MAL ESCRITA. BC null
+2/2/2018; 3:46:52; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:46:58; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:47:0; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LDnull
+2/2/2018; 3:47:5; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 3:47:6; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LFnull
+2/2/2018; 4:8:7; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 4:8:7; ERROR DE CONEXION O SQL : null
+2/2/2018; 4:40:39; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 4:40:39; ERROR DE CONEXION O SQL : null
+2/2/2018; 4:41:40; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 4:42:29; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 4:43:47; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2/2/2018; 4:43:47; ERROR DE CONEXION O SQL : null
+2/2/2018; 4:45:2; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+21/2/2018; 9:1:31; Problema de Ubicar URL :Unknown database 'coves_proyectos'
+21/2/2018; 9:4:47; Problema de Ubicar URL :Unknown database 'coves_proyectos'
+22/2/2018; 8:41:54; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+22/2/2018; 8:41:54; Error al restaurar, servidor de DB caido
+22/2/2018; 8:44:52; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+22/2/2018; 8:44:52; Error al restaurar, servidor de DB caido
+22/2/2018; 9:1:15; Problema de Ubicar URL :Data truncation: Data too long for column 'contra_funcionario' at row 1
+22/2/2018; 16:32:23; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+22/2/2018; 16:32:23; Error al restaurar, servidor de DB caido
+22/2/2018; 16:33:32; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+22/2/2018; 16:33:32; Error al restaurar, servidor de DB caido
+22/2/2018; 16:33:44; Problema de Ubicar URL :Access denied for user ''@'localhost' to database ' ,root, system'
+22/2/2018; 16:33:44; Error al restaurar, servidor de DB caido
+22/2/2018; 16:34:9; Problema de Ubicar URL :Access denied for user ''@'localhost' to database ' ,root, system'
+22/2/2018; 16:34:9; Error al restaurar, servidor de DB caido
+22/2/2018; 22:6:18; Problema de Ubicar URL :Data truncation: Data too long for column 'contra_funcionario' at row 1
+24/2/2018; 10:47:45; Problema de Ubicar URL :You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'b '12345'' at line 1
+24/2/2018; 10:51:9; Problema de Ubicar URL :You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'b '12345'' at line 1
+24/2/2018; 10:53:0; Problema de Ubicar URL :You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GRANT ALL PRIVILEGES ON * . * TO 'holi:D'@'localhost'' at line 1
+24/2/2018; 10:54:11; Problema de Ubicar URL :You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GRANT ALL PRIVILEGES ON * . * TO 'holi:D'@'localhost'' at line 1
+24/2/2018; 10:55:27; Problema de Ubicar URL :You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GRANT ALL PRIVILEGES ON *.* TO 'holi:D'@'localhost'' at line 1
+24/2/2018; 10:56:57; Problema de Ubicar URL :You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GRANT ALL PRIVILEGES ON *.* TO 'holi:D'@'localhost' REQUIRE NONE' at line 1
+24/2/2018; 10:57:41; Problema de Ubicar URL :You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'GRANT ALL PRIVILEGES ON *.* TO 'holi:D'@'localhost'' at line 1
+24/2/2018; 11:3:22; Problema de Ubicar URL :Can't find any matching row in the user table
+24/2/2018; 11:8:8; Problema de Ubicar URL :Operation CREATE USER failed for 'Coves'@'%'
+24/2/2018; 14:14:34; Problema de Ubicar URL :Access denied for user 'Coves'@'localhost' (using password: YES)
+24/2/2018; 14:14:34; ERROR DE CONEXION O SQL : null
+24/2/2018; 14:16:54; Problema de Ubicar URL :Access denied for user 'Coves'@'localhost' (using password: YES)
+24/2/2018; 14:16:54; ERROR DE CONEXION O SQL : null
+25/2/2018; 2:34:41; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:34:41; Error al respaldar, servidor de DB caido
+25/2/2018; 2:36:47; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:36:47; ERROR DE CONEXION O SQL : null
+25/2/2018; 2:37:11; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:37:11; Error al respaldar, servidor de DB caido
+25/2/2018; 2:51:0; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:51:0; Error al crear usuario, servidor de DB caido
+25/2/2018; 2:51:2; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:55:40; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:55:40; Error al crear usuario, servidor de DB caido
+25/2/2018; 2:55:42; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:58:10; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:58:10; Error al crear usuario, servidor de DB caido
+25/2/2018; 2:58:12; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 2:58:12; Error al restaurar, servidor de DB caido
+25/2/2018; 2:58:12; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:3:12; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:3:12; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:3:14; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:3:14; Error al restaurar, servidor de DB caido
+25/2/2018; 3:3:14; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:4:39; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:4:39; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:4:41; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:4:41; Error al restaurar, servidor de DB caido
+25/2/2018; 3:4:41; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:6:33; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:6:33; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:6:35; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:6:35; Error al restaurar, servidor de DB caido
+25/2/2018; 3:6:35; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:8:20; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:8:20; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:8:22; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:8:22; Error al restaurar, servidor de DB caido
+25/2/2018; 3:8:22; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:9:37; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:9:37; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:9:39; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:9:39; Error al restaurar, servidor de DB caido
+25/2/2018; 3:9:39; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:11:41; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:11:41; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:11:43; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:11:43; Error al restaurar, servidor de DB caido
+25/2/2018; 3:11:46; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:11:46; Error al restaurar, servidor de DB caido
+25/2/2018; 3:12:6; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:12:11; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:12:11; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:12:13; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:12:13; Error al restaurar, servidor de DB caido
+25/2/2018; 3:12:16; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:12:24; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:12:24; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:12:26; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:12:26; Error al restaurar, servidor de DB caido
+25/2/2018; 3:12:36; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:16:31; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:16:31; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:16:33; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:16:33; Error al restaurar, servidor de DB caido
+25/2/2018; 3:16:40; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:16:50; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:16:50; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:16:52; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:16:52; Error al restaurar, servidor de DB caido
+25/2/2018; 3:16:55; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:18:36; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:18:36; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:18:38; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:18:38; Error al restaurar, servidor de DB caido
+25/2/2018; 3:18:44; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:19:7; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:19:7; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:19:9; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:19:9; Error al restaurar, servidor de DB caido
+25/2/2018; 3:19:11; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:19:11; Error al restaurar, servidor de DB caido
+25/2/2018; 3:19:13; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:23:38; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:23:38; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:23:40; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:23:40; Error al restaurar, servidor de DB caido
+25/2/2018; 3:23:44; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+25/2/2018; 3:24:10; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:24:10; Error al crear usuario, servidor de DB caido
+25/2/2018; 3:24:12; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:24:12; Error al restaurar, servidor de DB caido
+25/2/2018; 3:24:14; Problema de Ubicar URL de prueba :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+25/2/2018; 3:24:14; Error al restaurar, servidor de DB caido
+25/2/2018; 3:26:0; no creo el usuario, o paso algo mas, corran!!! D: crear usuario
+27/2/2018; 4:59:51; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+27/2/2018; 4:59:51; ERROR DE CONEXION O SQL : null
+8/3/2018; 21:45:17; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' ORDER BY coves.nombre_coves ASC' at line 1
+8/3/2018; 21:45:20; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-%' ORDER BY coves.nombre_coves ASC' at line 1
+8/3/2018; 21:45:20; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-{%' ORDER BY coves.nombre_coves ASC' at line 1
+8/3/2018; 21:45:21; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-%' ORDER BY coves.nombre_coves ASC' at line 1
+8/3/2018; 21:45:21; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' ORDER BY coves.nombre_coves ASC' at line 1
+8/3/2018; 21:45:22; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' ORDER BY coves.nombre_coves ASC' at line 1
+8/3/2018; 21:45:26; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' ORDER BY coves.nombre_coves ASC' at line 1
+8/3/2018; 21:45:27; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '0%' ORDER BY coves.nombre_coves ASC' at line 1
+8/3/2018; 21:45:27; CONEXION FALLADA O SENTENCIA MAL ESCRITA. LCFU You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '%' ORDER BY coves.nombre_coves ASC' at line 1
+9/3/2018; 17:4:13; Problema de Ubicar URL :Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+9/3/2018; 17:4:14; ERROR DE CONEXION O SQL : null
+9/3/2018; 21:42:7; Falla al crear pdf Directiva Wrong number of columns.
+9/3/2018; 21:43:13; Falla al crear pdf Directiva Wrong number of columns.
+9/3/2018; 21:49:36; Falla al crear pdf Directiva c:\archivos_pdfs\Lista_Directiva.pdf (El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso)
+9/3/2018; 21:50:52; Falla al crear pdf Directiva c:\archivos_pdfs\Lista_Directiva.pdf (El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso)
+9/3/2018; 21:57:12; Falla al crear pdf Directiva c:\archivos_pdfs\Lista_Directiva.pdf (El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso)
